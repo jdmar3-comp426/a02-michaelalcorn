@@ -1,0 +1,23 @@
+{
+  "name": "a02-michaelalcorn",
+  "version": "1.0.0",
+  "description": "A02 Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://michaelalcorn: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@github.com/jdmar3-comp426/a02-michaelalcorn.git"
+  },
+  "author": "",
+  "license": "GPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/jdmar3-comp426/a02-michaelalcorn/issues"
+  },
+  "homepage": "https://github.com/jdmar3-comp426/a02-michaelalcorn#readme",
+  "dependencies": {
+    "browser-sync": "^2.27.5",
+    "bulma": "^0.9.3"
+  }
+}
